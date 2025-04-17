@@ -1,7 +1,8 @@
 
-#Cheatsheet
+# Cheatsheet
 
 | cmd | description |
+|-----|-------------|
 | add | put a file to a stage |
 |-----|-----------------------|
 
