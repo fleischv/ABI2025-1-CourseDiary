@@ -1,7 +1,9 @@
+
 #Cheatsheet
+
 | cmd | description |
 | add | put a file to a stage |
-|-----|-------------|
+|-----|-----------------------|
 
 
 git add: add it to the staging area
